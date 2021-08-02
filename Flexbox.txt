@@ -1,0 +1,13 @@
+Notas y links sobre flexbox
+
+Video 53' sobre flexbox de falcon masters
+https://youtu.be/F-KCncXMPk0
+
+Guia 1
+https://www.juanmacivico87.com/guia-flexbox/
+
+Guia 2
+https://free-time-katas.github.io/guia-flexbox.html
+
+Manual PDF para descargar 43 paginas
+https://desarrolloweb.com/manuales/manual-flexbox-css.html
