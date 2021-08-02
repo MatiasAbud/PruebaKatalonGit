@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saltar al contenidoCategorasDesarrolloN_a88c23</name>
+   <tag></tag>
+   <elementGuidId>c108d886-4b33-4e39-9d5b-7405ee043b79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='es']/div[2]/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.udlite-text-sm.header--header--3sK1h.header--flex-middle--2Xqjv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>udlite-text-sm header--header--3sK1h header--flex-middle--2Xqjv</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-purpose</name>
+      <type>Main</type>
+      <value>header</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saltar al contenidoCategoríasDesarrolloNegociosFinanzas y contabilidadInformática y softwareProductividad en la oficinaDesarrollo personalDiseñoMarketingEstilo de vidaFotografía y vídeoSalud y fitnessMúsicaEnseñanzas y disciplinas académicasDesarrollo webCiencias de la informaciónDesarrollo móvilLenguajes de programaciónDesarrollo de videojuegosDiseño y desarrollo de bases de datosTesteo de softwareIngeniería de softwareHerramientas de desarrollo de softwareDesarrollo sin códigoTemas popularesJavaScriptReactCSSAngularDjangoPHPNode.JsWordPressBuscar cualquier cosaUdemy for BusinessDale a tu equipo acceso a más de 5.500 de los mejores cursos de Udemy en cualquier momento y lugar.Prueba Udemy for BusinessEnseña en UdemyConvierte lo que sabes en una oportunidad y llega a millones de personas de todo el mundo.Más informaciónIniciar sesiónRegístrateEnglishDeutschEspañolFrançaisBahasa IndonesiaItaliano日本語한국어NederlandsPolskiPortuguêsRomânăРусскийภาษาไทยTürkçe中文(简体)中文(繁體)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;es&quot;)/div[@class=&quot;main-content-wrapper&quot;]/div[@class=&quot;ud-app-loader ud-component--header-v6--header udlite-header ud-app-loaded&quot;]/div[@class=&quot;udlite-text-sm header--header--3sK1h header--flex-middle--2Xqjv&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='es']/div[2]/div[2]/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='| Explora miles de cursos de una amplia variedad de temas con gran demanda.'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+   </webElementXpaths>
+</WebElementEntity>
