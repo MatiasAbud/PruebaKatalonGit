@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 91.0.4472.124,,,2021-07-14 11:19:06,2021-07-14 11:19:39,"33,390s",PASSED
+,,,,,,,
+Test Cases/Dlvr - LogIn Overload,Chrome 91.0.4472.124,,,2021-07-14 11:19:06,2021-07-14 11:19:39,"33,081s",PASSED
+"openBrowser(""http://overloadsoft.com/nct-qa/"")",Chrome 91.0.4472.124,,,2021-07-14 11:19:06,2021-07-14 11:19:15,"8,084s",PASSED
+delay(1),Chrome 91.0.4472.124,,,2021-07-14 11:19:15,2021-07-14 11:19:16,"1,099s",PASSED
+maximizeWindow(),Chrome 91.0.4472.124,,,2021-07-14 11:19:16,2021-07-14 11:19:16,"0,192s",PASSED
+delay(1),Chrome 91.0.4472.124,,,2021-07-14 11:19:16,2021-07-14 11:19:17,"1,008s",PASSED
+"setText(findTestObject(""DLVR/input_sign in_login""), ""mauricio"")",Chrome 91.0.4472.124,,,2021-07-14 11:19:17,2021-07-14 11:19:18,"0,953s",PASSED
+delay(1),Chrome 91.0.4472.124,,,2021-07-14 11:19:18,2021-07-14 11:19:19,"1,015s",PASSED
+"setText(findTestObject(""DLVR/input_sign in_password""), ""cinco5"")",Chrome 91.0.4472.124,,,2021-07-14 11:19:19,2021-07-14 11:19:20,"0,817s",PASSED
+delay(1),Chrome 91.0.4472.124,,,2021-07-14 11:19:20,2021-07-14 11:19:21,"1,021s",PASSED
+"click(findTestObject(""DLVR/button_sign in""))",Chrome 91.0.4472.124,,,2021-07-14 11:19:21,2021-07-14 11:19:21,"0,490s",PASSED
+delay(15),Chrome 91.0.4472.124,,,2021-07-14 11:19:21,2021-07-14 11:19:36,"15,018s",PASSED
+closeBrowser(),Chrome 91.0.4472.124,,,2021-07-14 11:19:36,2021-07-14 11:19:37,"0,701s",PASSED
+Video,Chrome 91.0.4472.124,,,2021-07-14 11:19:39,2021-07-14 11:19:39,"0,002s",PASSED
